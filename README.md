@@ -1,4 +1,4 @@
 R
 =
 
-R scripts
+R scripts for learning and other useful tasks.
